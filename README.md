@@ -80,14 +80,19 @@ plt.show()
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
+![alt text](<Screenshot 2025-03-29 134443.png>)
 
+![alt text](<Screenshot 2025-03-29 134533.png>)
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
+![alt text](<Screenshot 2025-03-29 134451.png>)
 
+![alt text](<Screenshot 2025-03-29 134540.png>)
 
 ### Histogram Equalization of Grayscale Image.
 
+![alt text](<Screenshot 2025-03-29 134458.png>)
 
 
 
